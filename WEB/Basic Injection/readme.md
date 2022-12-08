@@ -1,6 +1,6 @@
 Category: Web
-
 Difficulty: Easy
+
 
 - Basic Injection
 
