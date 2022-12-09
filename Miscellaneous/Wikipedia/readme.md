@@ -4,13 +4,17 @@ Difficulty: Easy
 
 - Wikipedia
 
+Description
+
 Not much to go off here, but it’s all you need: Wikipedia and 128.125.52.138.
 
-go to <https://en.wikipedia.org/wiki/Main_Page> and click contributions and search contribution with ip u have 128.125.52.138 
+Answer:
+
+1.go to <https://en.wikipedia.org/wiki/Main_Page> and click contributions and search contribution with ip u have 128.125.52.138 
 
 ![wikipedia search contribution](/assets/wikipedia-search-contribution.PNG)
 
-and u click diff
+2.and u click diff
 
 ![diff](/assets/wikipedia-diff.PNG)
 
