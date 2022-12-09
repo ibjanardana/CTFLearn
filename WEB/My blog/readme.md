@@ -20,5 +20,6 @@ Answer:
 
 2.get to a storage and look to the local storage and found key and value of flag.
 
+
 Flag: flag{n7f_l0c4l_570r463_15n7_53cur3_570r463}
 
