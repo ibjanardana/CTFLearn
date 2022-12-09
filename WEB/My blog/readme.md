@@ -16,7 +16,8 @@ Hint: replace the flag{} part with CTFlearn{}.
 
 Answer:
 
-1.first go to the blog page and use developers tool on your browser
+1.first go to the blog page and use developers tool on your browser.
+
 2.get to a storage and look to the local storage and found key and value of flag.
 
 Flag: flag{n7f_l0c4l_570r463_15n7_53cur3_570r463}
