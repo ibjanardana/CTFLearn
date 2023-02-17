@@ -44,6 +44,7 @@
 |[Where Can My Robot Go](./Miscellaneous/Where%20can%20my%20robot%20go/readme.md)|    Easy   | Solved |
 |[Wikipedia](./Miscellaneous/Wikipedia/readme.md)                                |    Easy   | Solved |
 |[QR Code](./Miscellaneous/Qr%20Code/readme.md)                                  |    Easy   | Solved |
+|[Ambush Mission](./Miscellaneous/Ambush%20Mission/readme.md)                    |   Medium  | Solved |
 
 
 
