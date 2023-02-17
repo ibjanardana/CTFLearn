@@ -10,6 +10,9 @@
 |[Forensics 101](./FORENSICS/Forensics%20101/readme.md) |    Easy   | Solved |
 |[Taking LS](./FORENSICS/Taking%20ls/readme.md)         |    Easy   | Solved |
 |[Wow So Meta](./FORENSICS/Wow%20so%20meta/readme.md)   |    Easy   | Solved |
+|[Git is good](./FORENSICS/Git%20is%20good/readme.md)   |    Easy   | Solved |
+|[Exif](./FORENSICS/Exif/readme.md)                     |    Easy   | Solved |
+|[snowboard](./FORENSICS/Snowboard/readme.md)           |    Easy   | Solved |
 
 
 - Web
@@ -40,6 +43,8 @@
 |[Practice Flag](./Miscellaneous/Practice%20flag/readme.md)                      |    Easy   | Solved |
 |[Where Can My Robot Go](./Miscellaneous/Where%20can%20my%20robot%20go/readme.md)|    Easy   | Solved |
 |[Wikipedia](./Miscellaneous/Wikipedia/readme.md)                                |    Easy   | Solved |
+|[QR Code](./Miscellaneous/Qr%20Code/readme.md)                                  |    Easy   | Solved |
+
 
 
 
